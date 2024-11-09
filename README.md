@@ -2,10 +2,7 @@
 
 ---
 
-I am a data engineer specializing in Python, SQL, and Google Cloud Platform technologies. 
-
-I create projects geared towards building efficient data pipelines, dashboards and reports that provide value in driving data-driven decision-making
-in organisations.
+I am a data engineer. I create projects geared towards building efficient data pipelines, dashboards and reports that provide value in driving data-driven decision-making in organisations.
 
 I manage my online presence through my [LinkedIn](https://www.linkedin.com/in/kenneth-imade/) where I share my projects, and concepts I have learnt, and engage with others in the data community.
 
