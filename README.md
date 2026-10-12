@@ -2,8 +2,8 @@
 <h3 align="center">Data engineer in Lagos, Nigeria · building data for a clean-energy future ⚡</h3>
 
 <p align="center">
-  <a href="https://your-blog-link-here"><img src="https://img.shields.io/badge/Blog-Read%20my%20posts-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://kennethimade.dev/"><img src="https://img.shields.io/badge/Blog-Read%20my%20posts-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
+  <a href="https://www.linkedin.com/in/kenneth-imade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://premierlytics.com"><img src="https://img.shields.io/badge/Premierlytics-Visit-37003C?style=for-the-badge&logo=premierleague&logoColor=white" alt="Premierlytics"></a>
 </p>
 
@@ -14,7 +14,7 @@
 You can call me **Ken**. I curate datasets and build and maintain the data infrastructure that informs policy decisions driving the world's shift to clean energy.
 
 - 🔭 Currently building **[Premierlytics](https://premierlytics.com)**
-- ✍️ Writing about what I learn on my **[blog](https://your-blog-link-here)**, from data engineering to computer networking
+- ✍️ Writing about what I learn on my **[blog](https://kennethimade.dev/)**, from data engineering to computer networking
 - 💬 Ask me about data pipelines, APIs and self-hosting
 
 ---
