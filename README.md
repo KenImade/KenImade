@@ -56,6 +56,6 @@ You can call me **Ken**. I curate datasets and build and maintain the data infra
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KenImade&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenImade&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
 </p>
